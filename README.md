@@ -4,13 +4,13 @@ A simple white and grey colored theme for Octopress. Named after the messed up T
 
 ## Demo
 
-See http://reza/re
+See http://reza.re
 
 ## Install
 
 ```
 $ cd .themes
-$ git clone https://github.com/rezajatnika/greyjoy.git
+$ git clone git://github.com/rezajatnika/greyjoy.git
 $ rake install[greyjoy]
 $ rake generate
 ```
