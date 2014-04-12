@@ -2,10 +2,6 @@
 
 A simple white and grey colored theme for Octopress. Named after the messed up Theon Greyjoy.
 
-## Demo
-
-See http://reza.re
-
 ## Install
 
 ```
