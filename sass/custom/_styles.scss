@@ -185,3 +185,15 @@ aside {
 	display: none;
 }
 
+figure {
+  margin-bottom: 1.5em;
+}
+
+figure figcaption {
+  text-align: center;
+  color: #888;
+}
+
+figure figcaption i {
+  font-style: italic;
+}
